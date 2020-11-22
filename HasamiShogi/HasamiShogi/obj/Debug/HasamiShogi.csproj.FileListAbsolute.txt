@@ -1,0 +1,6 @@
+/Users/tormasifanni/Documents/Egyetem/Szoftvertervezés és fejlesztés/HasamiShogi/HasamiShogi/obj/Debug/HasamiShogi.csprojAssemblyReference.cache
+/Users/tormasifanni/Documents/Egyetem/Szoftvertervezés és fejlesztés/HasamiShogi/HasamiShogi/obj/Debug/HasamiShogi.csproj.CoreCompileInputs.cache
+/Users/tormasifanni/Documents/Egyetem/Szoftvertervezés és fejlesztés/HasamiShogi/HasamiShogi/bin/Debug/HasamiShogi.exe
+/Users/tormasifanni/Documents/Egyetem/Szoftvertervezés és fejlesztés/HasamiShogi/HasamiShogi/bin/Debug/HasamiShogi.pdb
+/Users/tormasifanni/Documents/Egyetem/Szoftvertervezés és fejlesztés/HasamiShogi/HasamiShogi/obj/Debug/HasamiShogi.exe
+/Users/tormasifanni/Documents/Egyetem/Szoftvertervezés és fejlesztés/HasamiShogi/HasamiShogi/obj/Debug/HasamiShogi.pdb
